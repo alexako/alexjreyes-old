@@ -1,0 +1,17 @@
+.header {
+    margin-top: 13em;
+    text-align: center;
+}
+
+.header-lettering {
+    color: $lightGrey;
+    font-family: $headerFontStack;
+    font-size: 1.8em;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    line-height: 1.7em;
+}
+
+.highlight {
+    color: $green;
+}
